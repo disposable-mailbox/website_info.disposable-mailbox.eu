@@ -32,7 +32,7 @@ Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:
 
 #### Telefonisch:
 > Eine Telefonische Kontaktaufnahme ist möglich unter der Rufnummer
-> 0049 (0) 15678 einundfünfzig 4393
+> <p>Eine Telefonische Kontaktaufnahme ist möglich unter der Rufnummer<br><script>// Function to reverse string function ReverseString(str) {    return str.split('').reverse().join('') }    // Function call  document.write(ReverseString("923 gizfnüfdnuiewztrednuhreiv 87 shces 510 )0( 9400")) </script> <noscript><span style="text-decoration: underline wavy red; ">Your browser does not support JavaScript - but is required to display the number! <br/>Javascript ist Deaktiviert oder wird nicht unterstützt - wird aber benötigt um die Nummer anzuzeigen!</span></noscript>
 >  
 > Hinterlassen Sie gerne Ihre Kontaktdaten unter Nennung Ihres
 > Grundes für den Anruf, sofern die Mailbox das Gespräch annimmt.
