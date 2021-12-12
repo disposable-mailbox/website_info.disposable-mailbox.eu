@@ -1,3 +1,3 @@
-# Website gh.disposable-mailbox.eu
+# Website info.disposable-mailbox.eu
 ---
-## Contains Website gh.disposable-mailbox.eu
+## Contains Website info.disposable-mailbox.eu
