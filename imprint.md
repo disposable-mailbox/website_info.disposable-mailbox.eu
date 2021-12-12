@@ -35,20 +35,10 @@ Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV:
 
 <p>Eine Telefonische Kontaktaufnahme ist möglich unter der Rufnummer<br>
 <script>
-// Function to reverse string 
-
 function ReverseString(str) { 
-
    return str.split('').reverse().join('') 
-
 } 
-
-  
-
-// Function call  
-
 document.write(ReverseString("923 gizfnüfdnuiewztrednuhreiv 87 shces 510 )0( 9400")) 
-
 </script> 
 <noscript>
 <span style="text-decoration: underline wavy red; ">Your browser does not support JavaScript - but is required to display the number! <br/>
