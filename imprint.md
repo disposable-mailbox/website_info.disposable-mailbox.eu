@@ -1,11 +1,11 @@
 ---
 layout: imprint
 date:   2021-08-03 08:15:00
-categories: Info
-permalink: impressum-ps/index.html
+categories: Impressum 
+permalink: imprint.html
 title:  "Impressum"
-thumbnail: pfeiffer-sr-150.png
-highresolutionimg: pfeiffer-sr-150.png
+thumbnail: 
+highresolutionimg: 
 ---
 
 <!-- entry-content -->
