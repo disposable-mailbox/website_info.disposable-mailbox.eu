@@ -4,6 +4,7 @@ date:   2021-08-03 08:15:00
 categories: Impressum 
 permalink: imprint.html
 title:  "Impressum"
+lang: de
 thumbnail: pinterest_profile_330x330.png
 highresolutionimg: youtube_profile_800x800.png
 ---
