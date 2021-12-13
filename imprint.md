@@ -16,5 +16,5 @@ CAYA Postbox 474428<br>
 <p>Stichwort: DMb</p>
 
 
-#### Einnahmen durch Werbeeinblendungen decken nicht die laufenfen Kosten ab, sodass keine Gewinne erzielt werden. Es besteht auch keine Gewinnerzielungsabsicht.
+###### Einnahmen durch Werbeeinblendungen decken nicht die laufenfen Kosten ab, sodass keine Gewinne erzielt werden. Es besteht auch keine Gewinnerzielungsabsicht.
 <!-- .entry-content -->
