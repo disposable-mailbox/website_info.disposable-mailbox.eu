@@ -7,6 +7,7 @@ lang: de
 ### Domains
 Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind
 > disposable-mailbox.eu 
+> disposabl.email
 
 Haftung für Links
 > Mit Urteil vom 12. Mai 1998 – 312 O 85/98 – „Haftung für Links“ hat das Landgericht (LG) Hamburg entschieden, dass man durch das Setzen eines Links, die Inhalte der gelinkten Seite ggf. mit zu verantworten hat. Dies kann – so das LG – nur dadurch verhindert werden, dass man sich ausdrücklich von diesen Inhalten distanziert. Dieses Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei bekannt werden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
