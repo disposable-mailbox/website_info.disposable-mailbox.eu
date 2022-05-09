@@ -15,42 +15,40 @@ layout: default-es
 
 ---
 
-### ¿QUÉ ES EL disposable-mailbox? 
+### ¿QUÉ ES EL DISPOSABLE-MAILBOX? 
 ¿Y cuál es la diferencia entre el disposable-mailbox y el disposable-mailbox.eu? 
 disposable-mailbox es el servicio de buzón de correo desechable, autohospedado y más conocido para direcciones de correo electrónico desechables anónimas en Internet. Utilice su propio dominio solo para usted: ¡privado y anónimo! 
 
-Der Dienst von disposable-mailbox.eu basiert auf auf dem [GitHub Repository](https://github.com/pfeifferch/disposable-mailbox) und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung. (Somit gilt, wie auch das Repository: Dies ist Beta-Software, es gibt noch ungelöste Probleme.) 
-Keine Anmeldung, völlig unverbindlich, anonym und kostenlos!
+El servicio disposable-mailbox.eu se basa en el [Repositorio de GitHub](https://github.com/pfeifferch/disposable-mailbox) y también es el entorno de prueba y desarrollo en vivo. (Entonces, al igual que el repositorio, este es un software beta, todavía hay problemas sin resolver).
+¡Sin registro, completamente no vinculante, anónimo y gratuito! 
 
-### WIE INSTALLIERE ICH DISPOSABLE-MAILBOX? 
-Die Installationsanleitung, Dateien und Infos zu den Systemvoraussetzumgen findest du auf [GitHub](https://github.com/pfeifferch/disposable-mailbox).
+### ¿CÓMO INSTALO DISPOSABLE-MAILBOX? 
+Las instrucciones de instalación, los archivos y la información sobre los requisitos del sistema se pueden encontrar en [GitHub](https://github.com/pfeifferch/disposable-mailbox). 
 
 ---
 
-### WAS IST DISPOSABLE-MAILBOX.EU?
+### ¿QUÉ ES EL DISPOSABLE-MAILBOX.EU?
 
-Disposable-mailbox.eu ist ein Dienst für sogenannte Wegwerf-eMail-Adressen. 
-Verwende Disposable-mailbox.eu dort wo Du deine private eMail-Adresse nicht verwenden möchtest.
+Disposable-mailbox.eu es un servicio para las llamadas direcciones de correo electrónico desechables. 
+Utilice disposable-mailbox.eu donde no desee utilizar su dirección de correo electrónico privada. 
 
-So kannst Du dich gegen Spam und ungewollte Newsletter schützen!
+¡Así es como puede protegerse contra el spam y los boletines no deseados! 
 
-Wenn Du nicht weißt was Wegwerf-eMail-Adressen sind, dann besuche die Seite: 
-[Warum nutzt man Wegwerf-eMail-Adressen]({{ site.url }}/de/why.html) 
+Si no sabe qué son las direcciones de correo electrónico desechables, visite la página: [¿Por qué usa direcciones de correo electrónico desechables?]({{ site.url }}/es/why.html) 
 
-Der Dienst von disposable-mailbox.eu basiert auf auf dem [GitHub Repository](https://github.com/pfeifferch/disposable-mailbox) und ist gleichzeitig auch die Live - Entwicklungs- und Testumgebung.
+El servicio disposable-mailbox.eu se basa en el [Repositorio de GitHub](https://github.com/pfeifferch/disposable-mailbox) y también es el entorno de prueba y desarrollo en vivo. 
 
 
-### ALLE FUNKTIONEN IM ÜBERBLICK
+### TODAS LAS FUNCIONES DE UN VISTAZO 
 
-- Nutzung für Desktops, Tablets & Smartphones optimiert
-- Empfang von Text & HTML-eMails mit Dateianhängen
-- Speichern (EML-Datei) von eMails
-- eMails bleiben 24 Tage erhalten
-- Verschiedene Domains verfügbar
-- Direkter Zugang über Bookmark möglich
-- Open Source 
+- Optimizado para su uso en computadoras de escritorio, tabletas y teléfonos inteligentes 
+- Recepción de correos electrónicos de texto y HTML con archivos adjuntos 
+- Almacenamiento (archivos EML) de correos electrónicos: los correos electrónicos se conservan durante 24 días 
+- Varios dominios disponibles 
+- Posibilidad de acceso directo a través de marcadores 
+- Fuente abierta 
 
-### SO FUNKTIONIERT ES
+### ASI ES COMO FUNCIONA 
 
 Mögliche Ausgangssituation: 
  Du wirst bei einer unbekannten Webseite aufgefordert deine eMail-Adresse einzutragen. 
